@@ -1,4 +1,4 @@
-a = int(input(escolha um numero para base:))
-b = int(input(escolha um numero para a altura:))
+a = int(input("escolha um numero para base:"))
+b = int(input("escolha um numero para a altura:"))
 result(a.b)
 print(result)
